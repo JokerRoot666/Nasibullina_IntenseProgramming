@@ -38,4 +38,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.ГенеральныйДиректор</constants>
+  <constants>Constant.ИНН_организации</constants>
+  <constants>Constant.НазваниеОрганизации</constants>
+  <commonForms>CommonForm.ДанныеОрганизации</commonForms>
+  <catalogs>Catalog.СписокНоменклатур</catalogs>
 </mdclass:Configuration>
