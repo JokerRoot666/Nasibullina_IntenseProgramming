@@ -38,9 +38,18 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщегоНазначения</commonModules>
+  <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <constants>Constant.ГенеральныйДиректор</constants>
-  <constants>Constant.ИНН_организации</constants>
+  <constants>Constant.ИНН</constants>
   <constants>Constant.НазваниеОрганизации</constants>
   <commonForms>CommonForm.ДанныеОрганизации</commonForms>
-  <catalogs>Catalog.СписокНоменклатур</catalogs>
+  <catalogs>Catalog.Договоры</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <documents>Document.ЗаказПоставщика</documents>
+  <enums>Enum.ВидыНоменклатуры</enums>
+  <enums>Enum.ПроисхождениеТовара</enums>
+  <dataProcessors>DataProcessor.ДомашняяРабота</dataProcessors>
 </mdclass:Configuration>

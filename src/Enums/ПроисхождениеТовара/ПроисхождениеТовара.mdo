@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8c552414-585e-4345-8597-ce0a5dda9979">
+  <producedTypes>
+    <refType typeId="40cc37ab-e802-4555-a597-3d07fd72742b" valueTypeId="10a22db6-a46d-4362-b6f5-545b55860062"/>
+    <listType typeId="c5433362-70ec-4ed3-acc6-0e1ba83f1d94" valueTypeId="c556df80-9a84-4441-9d41-581947750c92"/>
+    <managerType typeId="57d9e963-3ade-47e1-8257-b241b53a4668" valueTypeId="360892ed-7a70-4243-9e85-f45e558a7a87"/>
+  </producedTypes>
+  <name>ПроисхождениеТовара</name>
+  <synonym>
+    <key>ru</key>
+    <value>Происхождение товара</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="3f09c99e-68b8-47e3-b5fb-9c958361e0ff">
+    <name>Импортный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Импортный</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="ea664275-5345-4844-95b2-0c8132a413b1">
+    <name>Отечественный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отечественный</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -5,7 +5,7 @@
     <valueManagerType typeId="61d3e8b4-ba29-4492-97b7-175ee543bb66" valueTypeId="af83a83e-ed4e-44af-abb7-7401cc9525ad"/>
     <valueKeyType typeId="e4c910ca-9d51-4182-8279-203fc6099ab2" valueTypeId="2b37f780-c0d0-4da9-b297-4f9974ce2ca4"/>
   </producedTypes>
-  <name>ИНН_организации</name>
+  <name>ИНН</name>
   <synonym>
     <key>ru</key>
     <value>ИНН</value>

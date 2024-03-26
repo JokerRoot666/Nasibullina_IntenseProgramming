@@ -59,7 +59,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>НаборКонстант.ИНН_организации</segments>
+      <segments>НаборКонстант.ИНН</segments>
     </dataPath>
     <extendedTooltip>
       <name>ИНН_организацииРасширеннаяПодсказка</name>

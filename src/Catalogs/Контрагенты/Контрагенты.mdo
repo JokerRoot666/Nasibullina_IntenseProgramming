@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fb2cf3c3-3d3b-469a-abe7-e6ed439e7904">
+  <producedTypes>
+    <objectType typeId="464d3d59-1c7c-4292-a330-5d8405e39d2a" valueTypeId="fea3bfe4-4379-4516-8b22-e62a8fec6416"/>
+    <refType typeId="2054e3f6-8cf6-4f6e-a01f-8c7f4aa956e0" valueTypeId="dd3a2da2-883a-4928-ad52-e3251b52e983"/>
+    <selectionType typeId="5d805344-bcf3-4bb6-8f3d-23729d8c5e65" valueTypeId="e95acf8c-85a4-4647-bc02-44ee31a9880b"/>
+    <listType typeId="5cd4a16d-cbd9-47e7-9c21-5ababd590a0c" valueTypeId="ca907364-ca66-406b-b38a-9bb8bc3bff28"/>
+    <managerType typeId="74c97962-a1f0-442a-afef-4cddc5de1667" valueTypeId="72efcdb4-e648-4576-ba15-64658cc1bc77"/>
+  </producedTypes>
+  <name>Контрагенты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контрагенты</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Контрагенты.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Контрагенты.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Контрагент</value>
+  </objectPresentation>
+  <extendedObjectPresentation>
+    <key>ru</key>
+    <value>Контрагент компании</value>
+  </extendedObjectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Список контрагентов</value>
+  </listPresentation>
+  <extendedListPresentation>
+    <key>ru</key>
+    <value>Список контрагентов компании</value>
+  </extendedListPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
